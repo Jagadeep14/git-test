@@ -1,0 +1,2 @@
+to clone the git repo 
+use the command - git clone and copy the http message form the github
